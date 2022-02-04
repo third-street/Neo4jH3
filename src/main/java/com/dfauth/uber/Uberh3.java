@@ -27,9 +27,9 @@ public class Uberh3 {
     @Context
     public Log log;
 
-    @Procedure(name = "com.dfauth.h3.returnHexAddress", mode = Mode.WRITE)
+    @UserFunction(name = "com.dfauth.h3.returnHexAddress")
     @Description("CALL com.dfauth.h3.returnHexAddress(latitude, longitude, h3Res)")
-    public Stream<StringResult> h3HexAddress(@Name ("locLatitude") Double locLatitude, @Name("locLongitude") Double locLongitude, @Name("h3Res") String h3Res) throws InterruptedException {
+    public String h3HexAddress(@Name ("locLatitude") Double locLatitude, @Name("locLongitude") Double locLongitude, @Name("h3Res") String h3Res) throws InterruptedException {
         String hexAddr = null;
             
         try {
@@ -47,7 +47,7 @@ public class Uberh3 {
      //           tx1.close();
             }
 
-        return Stream.of(new StringResult(hexAddr));
+        return hexAddr;
     }
 	
 
