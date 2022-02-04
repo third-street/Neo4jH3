@@ -2,25 +2,25 @@
     {
         "neo4j": "4.4.3",
         "neo4jVersion": "4.4.3",
-        "version": "0.1",
-        "url": "https://github.com/third-street/Neo4jH3/releases/tag/uberh3-0.1",
-        "homepageUrl": "https://github.com/third-street/Neo4jH3/releases/tag/uberh3-0.1",
-        "jar": "https://github.com/third-street/Neo4jH3/releases/download/uberh3-0.1/uberh3-0.1-SNAPSHOT.jar",
-        "downloadUrl": "https://github.com/third-street/Neo4jH3/releases/download/uberh3-0.1/uberh3-0.1-SNAPSHOT.jar",
-        "sha1": "8e41ef30315cc2e3d9a3c127def57006af2ef69c",
-        "sha256": "9224bd08198bb0f382bfb82249b4089003c505b72d0c53ec402e2864f115ba94",
-        "md5": "8dc23a662d75e38194640249f4f6f969"
+        "version": "0.2",
+        "url": "https://github.com/third-street/Neo4jH3/releases/tag/uberh3-0.2",
+        "homepageUrl": "https://github.com/third-street/Neo4jH3/releases/tag/uberh3-0.2",
+        "jar": "https://github.com/third-street/Neo4jH3/releases/download/uberh3-0.2/uberh3-0.2-SNAPSHOT.jar",
+        "downloadUrl": "https://github.com/third-street/Neo4jH3/releases/download/uberh3-0.2/uberh3-0.2-SNAPSHOT.jar",
+        "sha1": "6b63386eeefd191327b9f9fcfe273feeed8100b8",
+        "sha256": "713652cf8c72fdc9f3a205a40e64180840f532cc26d63121fa7ee570c9682983",
+        "md5": "798c450bab6137dbfeea089db3d64bce"
     },
     {
         "neo4j": "4.4.2",
         "neo4jVersion": "4.4.2",
-        "version": "0.1",
-        "url": "https://github.com/third-street/Neo4jH3/releases/tag/uberh3-0.1",
-        "homepageUrl": "https://github.com/third-street/Neo4jH3/releases/tag/uberh3-0.1",
-        "jar": "https://github.com/third-street/Neo4jH3/releases/download/uberh3-0.1/uberh3-0.1-SNAPSHOT.jar",
-        "downloadUrl": "https://github.com/third-street/Neo4jH3/releases/download/uberh3-0.1/uberh3-0.1-SNAPSHOT.jar",
-        "sha1": "8e41ef30315cc2e3d9a3c127def57006af2ef69c",
-        "sha256": "9224bd08198bb0f382bfb82249b4089003c505b72d0c53ec402e2864f115ba94",
-        "md5": "8dc23a662d75e38194640249f4f6f969"
+        "version": "0.2",
+        "url": "https://github.com/third-street/Neo4jH3/releases/tag/uberh3-0.2",
+        "homepageUrl": "https://github.com/third-street/Neo4jH3/releases/tag/uberh3-0.2",
+        "jar": "https://github.com/third-street/Neo4jH3/releases/download/uberh3-0.2/uberh3-0.2-SNAPSHOT.jar",
+        "downloadUrl": "https://github.com/third-street/Neo4jH3/releases/download/uberh3-0.2/uberh3-0.2-SNAPSHOT.jar",
+        "sha1": "6b63386eeefd191327b9f9fcfe273feeed8100b8",
+        "sha256": "713652cf8c72fdc9f3a205a40e64180840f532cc26d63121fa7ee570c9682983",
+        "md5": "798c450bab6137dbfeea089db3d64bce"
     }
   ]
