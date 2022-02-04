@@ -6,7 +6,7 @@
 
     <groupId>com.dfauth</groupId>
     <artifactId>uberh3</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.2-SNAPSHOT</version>
 
     <properties>
         <neo4j.version>3.5.1</neo4j.version>
